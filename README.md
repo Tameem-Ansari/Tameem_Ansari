@@ -1,7 +1,7 @@
 # Tameem_Ansari
 <h1 align="center">Hello 👋, I'm Tameem Ansari M</h1>
 <h3 align="center">A passionate Computer Programmer, who never stops learning coding:)</h3>
-<img align="right" alt="Coding" width="200" src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif]">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tameem-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="tameem-ansari" /> </p>
