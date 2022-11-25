@@ -10,7 +10,8 @@
 
 - 📝 I sometimes write articles on [https://stud.if.ktu.lt/~tammah/](https://stud.if.ktu.lt/~tammah/)
 
-- 💬 Ask me about **C#,Object-Oriented-Progamming,Computer_Graphics,Computer_Architecture,Mathematics**
+- 💬 Ask me about **C#,Object-Oriented-Progamming
+- ,Computer_Graphics,Computer_Architecture,Mathematics**
 
 - 📫 How to reach me **tammah@ktu.lt**
 
