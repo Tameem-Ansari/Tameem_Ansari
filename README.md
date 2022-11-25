@@ -1,7 +1,7 @@
 # Tameem_Ansari
 <h1 align="center">Hello 👋, I'm Tameem Ansari M</h1>
 <h3 align="center">A passionate Computer Programmer, who never stops learning coding:)</h3>
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif ">
+<img align="right" alt="Coding" width="200" src="[https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm50bWN3TTFkM25RUG9RVVBBUVhlLVhuTjFsd3xBQ3Jtc0trYUJxZTJXaGpaVGR2dWU0eDg1TU91T1p4QjdOM0hUU0NKUmRraDNNX240ckR3SGNDUHhLbWN2UVR2MXNwMFc0aEtmbzUzRFlWcUllV2owbkNERkJLajF0dXA1d1lxMW9iOEd2QVNqZVgwa1JMSlRzUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0) ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tameem-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="tameem-ansari" /> </p>
@@ -10,8 +10,7 @@
 
 - 📝 I sometimes write articles on [https://stud.if.ktu.lt/~tammah/](https://stud.if.ktu.lt/~tammah/)
 
-- 💬 Ask me about **C#,Object-Oriented-Progamming
-- ,Computer_Graphics,Computer_Architecture,Mathematics**
+- 💬 Ask me about **C#,OOP,Computer_Graphics,Computer_Architecture**
 
 - 📫 How to reach me **tammah@ktu.lt**
 
